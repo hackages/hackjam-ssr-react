@@ -8,6 +8,7 @@
 - Fast
 - SEO
 - Social media sharing
+- Accessibility
 
 ## Introduction
 
